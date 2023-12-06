@@ -1,4 +1,4 @@
-# MANTAPV3
+# BangsNgekXRAY
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 - ***Script Auto Installer Multi All Port 443,80***
 - Untuk script nya belum di buat ,harap bersabar heheh
@@ -10,7 +10,7 @@
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
+<img height=21 src="https://komarev.com/ghpvc/?username=BangsNgek">
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
@@ -22,38 +22,38 @@
 </p> 
 <h2 align="center">VPN</h2>
 
-[![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
 </h2>
 <h2 align="center">Network VPN</h2>
 
-[![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
 </h2>
 <h2 align="center">CDN/Reverse Proxy/Websocket</h2>
 
-[![Hits](https://img.shields.io/badge/Domain_Cloudflare_Only-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/Domain_Cloudflare_Only-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
 </h2>
 <h2 align="center">Protokol Tunneling SSH</h2>
 
-[![Hits](https://img.shields.io/badge/SSH_OpenSSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_Dropber-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_SSLH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_Stunnel5-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_SlowDNS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH_OpenSSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH_Dropber-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH_SSLH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH_Stunnel5-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH_Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/SSH_SlowDNS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
 </h2>
 <h2 align="center">Protokol Tunneling XRAY</h2>
 
-[![Hits](https://img.shields.io/badge/XRAY_VLESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY_VMESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY_TROJAN-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY_SHADOWSOCKS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY_VLESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY_VMESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY_TROJAN-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
+[![Hits](https://img.shields.io/badge/XRAY_SHADOWSOCKS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/BangsNgek/BangsNgekXRAY)
 </h2>
 
-# MANTAPV3
+# BangsNgekXRAY
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=monster.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=angularjs.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=notion.svg&icon_color=%2301021C&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -61,7 +61,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=angular.svg&icon_color=%2338FF00&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=pixiv.svg&icon_color=%2300BDFF&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Cara Install Script MANTAPV3
+# Cara Install Script BangsNgekXRAY
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
 - HARAP DI BACA ,INI SCRIPT UNTUK MEMBUAT SERVER VPN /MEMASANG SERVER VPN
 
