@@ -482,6 +482,6 @@ echo -e "Link Config GRPC TLS  : $vmesslinkgrpc" | tee -a /etc/log-create-user.l
 echo -e "Link Config WS HTTP/NONE TLS   : $nonvmesslinkws" | tee -a /etc/log-create-user.log
 echo -e "Link Config GRPC HTTP/NONE TLS : $nonvmesslinkgrpc" | tee -a /etc/log-create-user.log
 echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" | tee -a /etc/log-create-user.log
-echo -e "SCRIPT MANTAPV3 by SL" | tee -a /etc/log-create-user.log
+echo -e "SCRIPT BangsNgekXRAY by BangsNgek" | tee -a /etc/log-create-user.log
 echo "" | tee -a /etc/log-create-user.log
 cd
