@@ -93,7 +93,7 @@ echo "AllowTcpForwarding yes" >> /etc/ssh/sshd_config
 echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
 sed -i 's/#AllowTcpForwarding yes/AllowTcpForwarding yes/g' /etc/ssh/sshd_config
 /etc/init.d/ssh restart
-wget -qO- -O /etc/ssh/sshd_config https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/sshd_config
+wget -qO- -O /etc/ssh/sshd_config https://raw.githubusercontent.com/BangsNgek/Mantap/main/sshd_config
 systemctl restart sshd
 
 #Dropbear
@@ -109,7 +109,7 @@ echo "Banner /etc/issue.net" >>/etc/ssh/sshd_config
 sed -i 's@DROPBEAR_BANNER=""@DROPBEAR_BANNER="/etc/issue.net"@g' /etc/default/dropbear
 
 # Ganti Banner
-wget -O /etc/issue.net "https://raw.githubusercontent.com/fisabiliyusri/MANTAPV3/main/ssh/issue.net"
+wget -O /etc/issue.net "https://raw.githubusercontent.com/BangsNgek/BangsNgekXRAY/main/ssh/issue.net"
 /etc/init.d/ssh restart
 /etc/init.d/dropbear restart
 
