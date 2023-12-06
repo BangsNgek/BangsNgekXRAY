@@ -4,7 +4,7 @@
 - Untuk script nya belum di buat ,harap bersabar heheh
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MANTAPV3" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=BangssNgekXRAY" />
 </p>
 
 <p align='center'><a href="https://api.daily.dev/get?r=BangaNgek"><img src="https://raw.githubusercontent.com/BangsNgek/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
