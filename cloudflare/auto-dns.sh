@@ -17,11 +17,11 @@ rm -rf /etc/xray/domain
 rm -rf /var/lib/crot/ipvps.conf
 # Buat Dns Records Secara Otomatis
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-DOMAIN=mantapxsl.my.id
-SUB_DOMAIN=zerochan-${sub}.mantapxsl.my.id
-NS_DOMAIN=zerokun-${sub}.mantapxsl.my.id
-CF_ID=slinfinity69@gmail.com
-CF_KEY=dd2c5e0313f122b3c1833471d469b1025f492
+DOMAIN=bangsngek.com
+SUB_DOMAIN=server.bangsngek.com
+NS_DOMAIN=ns-server.bangsngek.com
+CF_ID=bangsngek@gmail.com
+CF_KEY=cc3553fe3564605d47101bdee7f6e2a8eebeb
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${SUB_DOMAIN}..."
